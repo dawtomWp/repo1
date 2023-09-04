@@ -2,7 +2,12 @@ ROZDZIAL II
 
 ......
 
+Drobna zmiana tresci
+
 ......
 
 
 Akapit 1
+
+
+Akapit 2
